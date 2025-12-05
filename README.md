@@ -31,22 +31,21 @@ I **build my own weapons** — all from scratch. 🛠️🩸
 Anti-forensics. Metadata stripping.
 Adversarial perturbation to break AI detectors while keeping perfect image quality.
 
-### 💀 **WPA3-DEAD** ☠️📡
+### 💀 **WPA3-DEAD** 📡
 
 High-speed WiFi auditing. MDK-like floods. Automated attack chains.
 
-### ⚡ **Titan** ⚔️🪓
+### ⚡ **Titan** 🪓
 
-Lightweight but deadly Windows post-exploitation toolkit.
-Token stealing, enumeration, fast recon.
+Lightweight but deadly,To know ip of the website and  Scan paths/endpoints + status code
 
-### ⚙️ **Wordlists-Filter** 🔍💥
+### ⚙️ **Wordlists-Filter** 🔍
 
 Smart & fast wordlist optimizer for real cracking workflows.
 
 ---
 
-## 🩸 **Real-World Hack — Cloud Firestore Compromise** <span style="font-size:22px">🔥🛑</span>
+## 🩸🩸**Real-World Hack — Cloud Firestore Compromise** <span style="font-size:22px"></span>
 
 Not a lab. Not a simulation.
 A **real production website**, full access, full control — legally tested with permission. ⚖️🟦
@@ -66,7 +65,7 @@ Report delivered. Patch deployed. 🛠️🔒
 
 ---
 
-## 🐉 **Active Directory Attacks I Own** <span style="font-size:22px">🗡️</span>
+## 🐉 **Active Directory Attacks I Own** <span style="font-size:22px"></span>
 
 These are not just commands I memorized.
 I understand **why they work, how networks break, and how to chain them**. 🧠⚔️
@@ -85,7 +84,7 @@ Fully tested. Fully understood.
 
 ---
 
-## 🔥 **Currently Grinding** <span style="font-size:22px">⏳⚔️</span>
+## **Currently Grinding** <span style="font-size:22px">⏳⚔️</span>
 
 Right now I’m deep inside **Active Directory** — learning it the way attackers do. 🧠🐺
 
