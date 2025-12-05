@@ -10,7 +10,7 @@
   <img src="https://github.com/imad457/imad457/raw/main/189616399.png" alt="Image" width="150">
 </p>
 
-## 🕶️ **About Me** <span style="font-size:22px">🗡️</span>
+## **About Me** <span style="font-size40px">🗡️</span>
 
 I’m not here to build pretty websites.
 I’m here to **break**, **exploit**, **escalate**, and **understand systems from the inside out**. 🧠💣
