@@ -1,5 +1,4 @@
-<h1 align="center">🔥 Imad — Offensive Security | Red Team Apprentice 🔥</h1>
-<p align="center">
+![Mr. Robot GIF](https://github.com/imad457/imad457/raw/main/mr-robot.gif)
   Breaking systems ethically. Learning fast. Escalating always.
 </p>
 
@@ -105,6 +104,5 @@ because I break it before anyone else does."
 📧 **imsecure4@gmail.com**  
 🔗 My GitHub below — tools I built, not copy-pasted.
 
-<p align="center">
   <img src="https://raw.githubusercontent.com/imad457/imad457/main/hacker.gif" width="300"/>
 </p>
