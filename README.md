@@ -2,7 +2,7 @@
   <img src="https://github.com/imad457/imad457/raw/main/mr-robot.gif" alt="Mr. Robot GIF">
 </p>
 
-<h3 align="center"><strong>🔥💻 Breaking systems ethically. Learning fast. Escalating always. 💥⚡</strong></h3>
+<h3 align="center"><strong>🔥💻 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 𝐄𝐓𝐇𝐈𝐂𝐀𝐋𝐋𝐘. 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐅𝐀𝐒𝐓. 𝐄𝐒𝐂𝐀𝐋𝐀𝐓𝐈𝐍𝐆 𝐀𝐋𝐖𝐀𝐘𝐒 💥⚡</strong></h3>
 
 ---
 
@@ -10,7 +10,7 @@
   <img src="https://github.com/imad457/imad457/raw/main/189616399.png" alt="Image" width="150">
 </p>
 
-## **About Me** <span style="font-size40px">🗡️</span>
+## **𝖠𝖡𝖮𝖴𝖳 𝖬𝖤** <span style="font-size40px">🗡️</span>
 
 I’m not here to build pretty websites.
 I’m here to **break**, **exploit**, **escalate**, and **understand systems from the inside out**. 🧠💣
@@ -21,7 +21,7 @@ I improve fast — faster than most people expect. 🚀🔥
 
 ---
 
-## ⚔️ **My Arsenal — Tools I Build** <span style="font-size:22px">💣</span>
+## ⚔️ **𝖬𝖸 𝖠𝖱𝖲𝖤𝖭𝖠𝖫 — 𝖳𝖮𝖮𝖫𝖲 𝖨 𝖡𝖴𝖨𝖫𝖣** <span style="font-size:22px">💣</span>
 
 I don’t clone random tools.
 I **build my own weapons** — all from scratch. 🛠️🩸
@@ -45,7 +45,7 @@ Smart & fast wordlist optimizer for real cracking workflows.
 
 ---
 
-## 🩸🩸**Real-World Hack — Cloud Firestore Compromise** <span style="font-size:22px"></span>
+## 🩸🩸**𝖩𝖴𝖲𝖳 𝟣 𝖯𝖠𝖱𝖳 𝖥𝖱𝖮𝖬 𝖬𝖸 𝖱𝖤𝖠𝖫 𝖶𝖮𝖱𝖫𝖣 𝖧𝖠𝖢𝖪 — 𝖢𝖫𝖮𝖴𝖣 𝖥𝖨𝖱𝖤𝖲𝖳𝖮𝖱𝖤 𝖢𝖮𝖬𝖯𝖱𝖮𝖬𝖨𝖲𝖤** <span style="font-size:22px"></span>
 
 Not a lab. Not a simulation.
 A **real production website**, full access, full control — legally tested with permission. ⚖️🟦
@@ -61,11 +61,14 @@ I exploited:
 
 Impact: **🔥 Critical – CVSS 9.9 (Broken Access Control)**
 Data integrity compromised.
-Report delivered. Patch deployed. 🛠️🔒
+Report delivered. Patch deployed. 🛠️🔒*
+
+
+                                                       **𝑹𝑬𝑴𝑬𝑴𝑩𝑬𝑹 𝑼 𝑺𝑻𝑰𝑳𝑳 𝑩𝑳𝑰𝑵𝑫 👁️‍🗨️**
 
 ---
 
-## 🐉 **Active Directory Attacks I Own** <span style="font-size:22px"></span>
+## 🐉 **𝖠𝖢𝖳𝖨𝖵𝖤 𝖣𝖨𝖱𝖤𝖢𝖳𝖮𝖱𝖸 𝖠𝖳𝖳𝖠𝖢𝖪𝖲 𝖨 𝖮𝖶𝖭** <span style="font-size:22px"></span>
 
 These are not just commands I memorized.
 I understand **why they work, how networks break, and how to chain them**. 🧠⚔️
@@ -84,7 +87,7 @@ Fully tested. Fully understood.
 
 ---
 
-## **Currently Grinding** <span style="font-size:22px">⏳⚔️</span>
+## **𝖢𝖴𝖱𝖱𝖤𝖭𝖳𝖫𝖸 𝖦𝖱𝖨𝖭𝖣𝖨𝖭𝖦** <span style="font-size:22px">⏳⚔️</span>
 
 Right now I’m deep inside **Active Directory** — learning it the way attackers do. 🧠🐺
 
@@ -111,7 +114,7 @@ I study it like someone preparing to **break an entire enterprise network**. �
 
 ---
 
-## 🐺 **Personal Philosophy** <span style="font-size:22px">🔪</span>
+## 🐺 **𝖯𝖤𝖱𝖲𝖮𝖭𝖠𝖫 𝖯𝖧𝖨𝖫𝖮𝖲𝖮𝖯𝖧𝖸** <span style="font-size:22px">🔪</span>
 > "If I touch a system, it becomes more secure — because I break it before anyone else does." ⚡💀   
 <p align="left">
   <img src="https://raw.githubusercontent.com/imad457/imad457/refs/heads/main/giphy.gif" alt="My GIF" width="200">
@@ -120,7 +123,7 @@ I study it like someone preparing to **break an entire enterprise network**. �
 
 ---
 
-## 📡 **Contact** <span style="font-size:22px">📧</span>
+## 📡 **𝐶𝑂𝑁𝑇𝐴𝐶𝑇** <span style="font-size:22px">📧</span>
 
 📧 **[imsecure4@gmail.com](mailto:imsecure4@gmail.com)**
 🔗 GitHub profile below — tools I built, not copy‑pasted. ⚔️🔥
