@@ -2,11 +2,13 @@
   <img src="https://github.com/imad457/imad457/raw/main/mr-robot.gif" alt="Mr. Robot GIF">
 </p>
 
-
-  Breaking systems ethically. Learning fast. Escalating always.
+  ### **Breaking systems ethically. Learning fast. Escalating always.** 💻💥
 </p>
 
 ---
+<p align="left">
+  <img src="https://github.com/imad457/imad457/raw/main/189616399.png" alt="Image" width="150">
+</p>
 
 ## 🕶️ About Me
 I’m not here to build pretty websites.  
