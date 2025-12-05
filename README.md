@@ -1,4 +1,8 @@
-![Mr. Robot GIF](https://github.com/imad457/imad457/raw/main/mr-robot.gif)
+<p align="center">
+  <img src="https://github.com/imad457/imad457/raw/main/mr-robot.gif" alt="Mr. Robot GIF">
+</p>
+
+
   Breaking systems ethically. Learning fast. Escalating always.
 </p>
 
