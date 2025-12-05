@@ -15,8 +15,6 @@
 I’m not here to build pretty websites.
 I’m here to **break**, **exploit**, **escalate**, and **understand systems from the inside out**. 🧠💣
 
-No certificates (yet). 📜❌
-No corporate training. 🏢❌
 Just **pure grind, discipline, and obsession with offensive security**. ⚡🐺
 
 I improve fast — faster than most people expect. 🚀🔥
