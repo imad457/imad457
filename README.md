@@ -82,6 +82,8 @@ I understand **why they work, how networks break, and how to chain them**. 🧠�
 * **Kerberoasting** 🦅🔥
 * **Token Impersonation** 🪙👥
 * **Internal enumeration & post-exploitation** 🛰️🛠️
+* **Delegation Abuse**💀
+* **Silver Ticket**🔑
 
 Fully tested. Fully understood.
 
