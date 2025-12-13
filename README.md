@@ -134,3 +134,26 @@ I study it like someone preparing to **break an entire enterprise network**. �
 <p align="center">
   <img src="https://raw.githubusercontent.com/imad457/imad457/main/hacker.gif" width="300"/>
 </p>
+
+**MY-public--key**
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User ID:	THE FLY <Rene6562366@proton.me>
+Comment: Valid from:	11/2/25 2:23 PM
+Comment: Valid until:	11/2/28 5:00 PM
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User IDs
+Comment: Fingerprint:	EE0E89DE54B30D0444949C6EBA1A4AA73A413EA3
+
+mDMEaQdbYhYJKwYBBAHaRw8BAQdAdzuFMpl8p/R3ZW6P6WWvHi9rh1nfOOuJ5FVB
+oe6xmVu0H1RIRSBGTFkgPFJlbmU2NTYyMzY2QHByb3Rvbi5tZT6IlgQTFgoAPhYh
+BO4Oid5Usw0ERJScbroaSqc6QT6jBQJpB1tiAhsDBQkFpRCeBQsJCAcCBhUKCQgL
+AgQWAgMBAh4BAheAAAoJELoaSqc6QT6jnqUBAITauXDmLCJCmDI5d7P0HzqJyKlL
+bEmodULxCf564OLLAQDK95D7xY0+1IL885Mddl+K+CdrHm9jThKtUtv5K5ZdBLg4
+BGkHW2ISCisGAQQBl1UBBQEBB0AvGCajUzPAcaUuaJIe/mp3z2oKGNLIveEjlqbb
+NfohOAMBCAeIfgQYFgoAJhYhBO4Oid5Usw0ERJScbroaSqc6QT6jBQJpB1tiAhsM
+BQkFpRCeAAoJELoaSqc6QT6jtJAA/0JpGWJoaf/Dw9i7Fp8F5Dxb4keazwAEG7wF
+Uf7oYFtSAQDVTKzonIhy1V8/QtbkmoFpIH9NOdEXY538ByLErJiABQ==
+=4mjO
+-----END PGP PUBLIC KEY BLOCK-----
+
