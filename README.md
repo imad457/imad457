@@ -74,6 +74,7 @@ These are not just commands I memorized.
 I understand **why they work, how networks break, and how to chain them**. 🧠⚔️
 
 ### Recent attacks mastered:
+* **LDAP Pass-back Attacks**💀💥
 * **Golden Ticket** 😶‍🌫️😶‍🌫️
 * **LLMNR Poisoning** 🧪💀
 * **IPv6 MITM (mitm6 → ntlmrelayx → secretsdump)** 🌐🩸
