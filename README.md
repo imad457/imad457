@@ -11,7 +11,7 @@
 </p>
 
 ## **𝖠𝖡𝖮𝖴𝖳 𝖬𝖤** <span style="font-size40px">🗡️</span>
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5701287" style='border:none;'></iframe>
 I’m not here to build pretty websites.
 I’m here to **break**, **exploit**, **escalate**, and **understand systems from the inside out**. 🧠💣
 
