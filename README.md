@@ -10,7 +10,7 @@
   <img src="https://github.com/imad457/imad457/raw/main/189616399.png" alt="Image" width="150">
 </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5701287" style='border:none;'></iframe>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5701287"
 
 
 ## **𝖠𝖡𝖮𝖴𝖳 𝖬𝖤** <span style="font-size40px">🗡️</span>
