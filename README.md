@@ -36,34 +36,56 @@ High-speed WiFi auditing. MDK-like floods. Automated attack chains.
 
 ### ⚡ **Titan** 🪓
 
-Lightweight but deadly,To know ip of the website and  Scan paths/endpoints + status code
-
+Lightweight but deadly — resolve target IP and scan paths/endpoints with status codes
 ### ⚙️ **Wordlists-Filter** 🔍
 
 Smart & fast wordlist optimizer for real cracking workflows.
 
 ---
 
-## 🩸🩸**𝖩𝖴𝖲𝖳 𝟣 𝖯𝖠𝖱𝖳 𝖥𝖱𝖮𝖬 𝖬𝖸 𝖱𝖤𝖠𝖫 𝖶𝖮𝖱𝖫𝖣 𝖧𝖠𝖢𝖪 — 𝖢𝖫𝖮𝖴𝖣 𝖥𝖨𝖱𝖤𝖲𝖳𝖮𝖱𝖤 𝖢𝖮𝖬𝖯𝖱𝖮𝖬𝖨𝖲𝖤** <span style="font-size:22px"></span>
+## 🩸🩸 **𝖩𝖴𝖲𝖳 𝟣 𝖯𝖠𝖱𝖳 𝖥𝖱𝖮𝖬 𝖬𝖸 𝖱𝖤𝖠𝖫 𝖶𝖮𝖱𝖫𝖣 𝖧𝖠𝖢𝖪𝖲**  
 
-Not a lab. Not a simulation.
-A **real production website**, full access, full control — legally tested with permission. ⚖️🟦
+### ☁️ 1️⃣ Cloud Firestore Compromise
+
+Not a lab. Not a simulation.  
+A **real production website**, full access, full control — legally tested with permission. ⚖️🟦  
 
 I exploited:
 
-* Exposed Firebase API Key 🔑
-* Weak client-side security model 🧩
-* Misconfigured Firestore Rules ⚠️
-* No authentication on write 🛑
-* Read/Write access to live production data 📂🔥
-* Ability to modify metadata and deface images 🖼️💀
+* Exposed Firebase API Key 🔑  
+* Weak client-side security model 🧩  
+* Misconfigured Firestore Rules ⚠️  
+* No authentication on write 🛑  
+* Read/Write access to live production data 📂🔥  
+* Ability to modify metadata and deface images 🖼️💀  
 
-Impact: **🔥 Critical – CVSS 9.9 (Broken Access Control)**
-Data integrity compromised.
-Report delivered. Patch deployed. 🛠️🔒*
+Impact: **🔥 Critical – CVSS 9.9 (Broken Access Control)**  
+Data integrity compromised.  
+Report delivered. Patch deployed. 🛠️🔒  
 
+---
 
-                                                       **𝑹𝑬𝑴𝑬𝑴𝑩𝑬𝑹 𝑼 𝑺𝑻𝑰𝑳𝑳 𝑩𝑳𝑰𝑵𝑫 👁️‍🗨️**
+### 🛰️ 2️⃣ SSO Authentication Bypass – Admin Panel Takeover
+
+Again, **not a lab. Not a simulation.**  
+A **real production e‑commerce platform**, legally tested with permission. ⚖️🟦  
+
+I exploited:
+
+* Publicly exposed store identifier (`store_id`) 🏪  
+* SSO tokens leaked in `302 Location` redirects 🎯  
+* Session IDs re‑used across authentication domains 🔄  
+* Missing server‑side authorization checks on admin SSO flow 🚫  
+* Ability to replay leaked cookies/tokens via `curl` to reach `/admin` without a password 🧬  
+
+Impact: **🚨 Critical – CVSS 9.8 (Broken Access Control / Improper Authentication)**  
+* Full admin dashboard access for **tens of thousands of stores** 🧷  
+* Potential access to orders & customer PII via internal APIs 📦🧾  
+* Power to change configurations and manipulate orders globally 🛒⚙️  
+
+✅ Fully documented, responsibly disclosed, and supported with a detailed PoC report. 📝🔐  
+
+**𝑹𝑬𝑴𝑬𝑴𝑩𝑬𝑹 𝑼 𝑺𝑻𝑰𝑳𝑳 𝑩𝑳𝑰𝑵𝑫 👁️‍🗨️**
 
 ---
 
@@ -134,7 +156,7 @@ I study it like someone preparing to **break an entire enterprise network**. �
   <img src="https://raw.githubusercontent.com/imad457/imad457/main/hacker.gif" width="300"/>
 </p>
 
-**MY-public--key**
+**My Public Key**
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: User ID:	THE FLY <Rene6562366@proton.me>
