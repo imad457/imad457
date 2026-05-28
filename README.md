@@ -86,12 +86,10 @@ Orders submitted with missing customer data.
 Potential inventory distortion, stock exhaustion, and backend data corruption.
 Legitimate customers may see products as out of stock or unavailable.
 
-
-Report delivered. Patch recommended. 🛠️🔒
-    
+Report delivered. Patch deployed. 🛠️🔒
 ✅ Fully documented, responsibly disclosed, and supported with a detailed PoC report. 📝🔐  
 
-                                                        **𝑹𝑬𝑴𝑬𝑴𝑩𝑬𝑹 𝑼 𝑺𝑻𝑰𝑳𝑳 𝑩𝑳𝑰𝑵𝑫 👁️‍🗨️**
+                                                   **𝑹𝑬𝑴𝑬𝑴𝑩𝑬𝑹 𝑼 𝑺𝑻𝑰𝑳𝑳 𝑩𝑳𝑰𝑵𝑫 👁️‍🗨️**
 
 ---
 
