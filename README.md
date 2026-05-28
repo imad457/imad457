@@ -78,13 +78,13 @@ I exploited:
 * Bypass of mandatory order fields (Name, City, Phone) 🚫
 * Generation of ghost orders with blank metadata in production database 👻📂
 * Repeated fake empty requests that may distort stock levels and exhaust product availability 🛒📉
-* 
+  
 **Impact: 🚨 Medium/High – Business Logic Vulnerability / Input Validation Chain Bypass**
 
-Checkout integrity compromised.
-Orders submitted with missing customer data.
-Potential inventory distortion, stock exhaustion, and backend data corruption.
-Legitimate customers may see products as out of stock or unavailable.
+* Checkout integrity compromised.
+* Orders submitted with missing customer data.
+* Potential inventory distortion, stock exhaustion, and backend data corruption.
+* Legitimate customers may see products as out of stock or unavailable.
 
 Report delivered. Patch deployed. 🛠️🔒
 ✅ Fully documented, responsibly disclosed, and supported with a detailed PoC report. 📝🔐  
