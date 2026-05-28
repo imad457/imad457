@@ -65,27 +65,40 @@ Report delivered. Patch deployed. 🛠️🔒
 
 ---
 
-### 🛰️ 2️⃣ SSO Authentication Bypass – Admin Panel Takeover
+### 🛰️ 2️⃣ Business Logic Exploit – Ghost Order Generation via Input Validation Chain Bypass
 
-Again, **not a lab. Not a simulation.**  
-A **real production e‑commerce platform**, legally tested with permission. ⚖️🟦  
+Again, **not a lab. Not a simulation**.
+**A real production e-commerce checkout flow, legally tested with permission**. ⚖️🟦
 
 I exploited:
 
-* Publicly exposed store identifier (`store_id`) 🏪  
-* SSO tokens leaked in `302 Location` redirects 🎯  
-* Session IDs re‑used across authentication domains 🔄  
-* Missing server‑side authorization checks on admin SSO flow 🚫  
-* Ability to replay leaked cookies/tokens via `curl` to reach `/admin` without a password 🧬  
+Oversized input handling in the billing_phone field 📞
 
-Impact: **🚨 Critical – CVSS 9.8 (Broken Access Control / Improper Authentication)**  
-* Full admin dashboard access for **tens of thousands of stores** 🧷  
-* Potential access to orders & customer PII via internal APIs 📦🧾  
-* Power to change configurations and manipulate orders globally 🛒⚙️  
+Broken server-side validation on checkout 🧩
 
+Input truncation / processing exception in backend logic ⚠️
+
+Bypass of mandatory order fields (Name, City, Phone) 🚫
+
+Generation of ghost orders with blank metadata in production database 👻📂
+
+Repeated fake empty requests that may distort stock levels and exhaust product availability 🛒📉
+
+**Impact: 🚨 Medium/High – Business Logic Vulnerability / Input Validation Chain Bypass**
+
+Checkout integrity compromised.
+
+Orders submitted with missing customer data.
+
+Potential inventory distortion, stock exhaustion, and backend data corruption.
+
+Legitimate customers may see products as out of stock or unavailable.
+
+Report delivered. Patch recommended. 🛠️🔒
+    
 ✅ Fully documented, responsibly disclosed, and supported with a detailed PoC report. 📝🔐  
 
-**𝑹𝑬𝑴𝑬𝑴𝑩𝑬𝑹 𝑼 𝑺𝑻𝑰𝑳𝑳 𝑩𝑳𝑰𝑵𝑫 👁️‍🗨️**
+                                                        **𝑹𝑬𝑴𝑬𝑴𝑩𝑬𝑹 𝑼 𝑺𝑻𝑰𝑳𝑳 𝑩𝑳𝑰𝑵𝑫 👁️‍🗨️**
 
 ---
 
