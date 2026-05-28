@@ -89,7 +89,7 @@ I exploited:
 **Report delivered. Patch deployed.🛠️🔒**
 ✅ Fully documented, responsibly disclosed, and supported with a detailed PoC report. 📝🔐  
 
-                                                   **𝑹𝑬𝑴𝑬𝑴𝑩𝑬𝑹 𝑼 𝑺𝑻𝑰𝑳𝑳 𝑩𝑳𝑰𝑵𝑫 👁️‍🗨️**
+                                                    𝑹𝑬𝑴𝑬𝑴𝑩𝑬𝑹 𝑼 𝑺𝑻𝑰𝑳𝑳 𝑩𝑳𝑰𝑵𝑫 👁️‍🗨️
 
 ---
 
@@ -126,7 +126,7 @@ Current focus:
 * **Lateral Movement (pivoting chains)** 🕸️
 * **Advanced AD exploitation techniques** 🐉
 * **Privilege escalation paths** 🛡️
-* **business logic Vulnerabilities** 💸💸
+* **Business logic Vulnerabilities** 💸💸
 
 I don’t study AD casually —
 I study it like someone preparing to **break an entire enterprise network**. 🩸🏢🔥
