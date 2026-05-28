@@ -72,27 +72,20 @@ Again, **not a lab. Not a simulation**.
 
 I exploited:
 
-Oversized input handling in the billing_phone field 📞
-
-Broken server-side validation on checkout 🧩
-
-Input truncation / processing exception in backend logic ⚠️
-
-Bypass of mandatory order fields (Name, City, Phone) 🚫
-
-Generation of ghost orders with blank metadata in production database 👻📂
-
-Repeated fake empty requests that may distort stock levels and exhaust product availability 🛒📉
-
+* Oversized input handling in the billing_phone field 📞
+* Broken server-side validation on checkout 🧩
+* Input truncation / processing exception in backend logic ⚠️
+* Bypass of mandatory order fields (Name, City, Phone) 🚫
+* Generation of ghost orders with blank metadata in production database 👻📂
+* Repeated fake empty requests that may distort stock levels and exhaust product availability 🛒📉
+* 
 **Impact: 🚨 Medium/High – Business Logic Vulnerability / Input Validation Chain Bypass**
 
 Checkout integrity compromised.
-
 Orders submitted with missing customer data.
-
 Potential inventory distortion, stock exhaustion, and backend data corruption.
-
 Legitimate customers may see products as out of stock or unavailable.
+
 
 Report delivered. Patch recommended. 🛠️🔒
     
