@@ -99,17 +99,19 @@ These are not just commands I memorized.
 I understand **why they work, how networks break, and how to chain them**. 🧠⚔️
 
 ### Recent attacks mastered:
-* **LDAP Pass-back Attacks**💀💥
 * **Golden Ticket** 😶‍🌫️😶‍🌫️
-* **LLMNR Poisoning** 🧪💀
-* **IPv6 MITM (mitm6 → ntlmrelayx → secretsdump)** 🌐🩸
-* **Pass-the-Hash** 🔑⚡
+* **DCSync Abuse** 🩸👑
+* **Delegation Abuse** 💀
+* * **Silver Ticket** 🔑
 * **Pass-the-Ticket** 🎟️💥
+* **Pass-the-Hash** 🔑⚡
 * **Kerberoasting** 🦅🔥
+* **AS-REP Roasting** 🔥🧪
+* **IPv6 MITM relay**  🌐🩸
+* * **LDAP Pass-back Attacks** 💀💥
 * **Token Impersonation** 🪙👥
+* **LLMNR Poisoning** 🧪💀
 * **Internal enumeration & post-exploitation** 🛰️🛠️
-* **Delegation Abuse**💀
-* **Silver Ticket**🔑
 
 Fully tested. Fully understood.
 
@@ -119,22 +121,11 @@ Fully tested. Fully understood.
 
 Right now I’m deep inside **Active Directory** — learning it the way attackers do. 🧠🐺
 
-Already mastered:
-
-* LLMNR Poisoning
-* IPv6 MITM relay
-* Pass-the-Ticket
-* Pass-the-Hash
-* Kerberoasting
-* Token Impersonation
-
 Current focus:
 
 * **Lateral Movement (pivoting chains)** 🕸️
 * **Advanced AD exploitation techniques** 🐉
-* **Internal network mapping** 🛰️
 * **Privilege escalation paths** 🛡️
-* **Payload development (BadUSB / Pico attacks)** 💉💻
 * **Cloud misconfigurations & offensive workflows** ☁️⚡
 
 I don’t study AD casually —
