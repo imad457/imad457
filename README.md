@@ -61,7 +61,7 @@ I exploited:
 
 Impact: **🔥 Critical – CVSS 9.9 (Broken Access Control)**  
 Data integrity compromised.  
-Report delivered. Patch deployed. 🛠️🔒  
+**Report delivered. Patch deployed. 🛠️🔒**
 
 ---
 
@@ -86,7 +86,7 @@ I exploited:
 * Potential inventory distortion, stock exhaustion, and backend data corruption.
 * Legitimate customers may see products as out of stock or unavailable.
 
-Report delivered. Patch deployed. 🛠️🔒
+**Report delivered. Patch deployed.🛠️🔒**
 ✅ Fully documented, responsibly disclosed, and supported with a detailed PoC report. 📝🔐  
 
                                                    **𝑹𝑬𝑴𝑬𝑴𝑩𝑬𝑹 𝑼 𝑺𝑻𝑰𝑳𝑳 𝑩𝑳𝑰𝑵𝑫 👁️‍🗨️**
@@ -102,13 +102,13 @@ I understand **why they work, how networks break, and how to chain them**. 🧠�
 * **Golden Ticket** 😶‍🌫️😶‍🌫️
 * **DCSync Abuse** 🩸👑
 * **Delegation Abuse** 💀
-* * **Silver Ticket** 🔑
+* **Silver Ticket** 🔑
 * **Pass-the-Ticket** 🎟️💥
 * **Pass-the-Hash** 🔑⚡
 * **Kerberoasting** 🦅🔥
 * **AS-REP Roasting** 🔥🧪
 * **IPv6 MITM relay**  🌐🩸
-* * **LDAP Pass-back Attacks** 💀💥
+* **LDAP Pass-back Attacks** 💀💥
 * **Token Impersonation** 🪙👥
 * **LLMNR Poisoning** 🧪💀
 * **Internal enumeration & post-exploitation** 🛰️🛠️
@@ -126,7 +126,7 @@ Current focus:
 * **Lateral Movement (pivoting chains)** 🕸️
 * **Advanced AD exploitation techniques** 🐉
 * **Privilege escalation paths** 🛡️
-* **Cloud misconfigurations & offensive workflows** ☁️⚡
+* **business logic Vulnerabilities** 💸💸
 
 I don’t study AD casually —
 I study it like someone preparing to **break an entire enterprise network**. 🩸🏢🔥
